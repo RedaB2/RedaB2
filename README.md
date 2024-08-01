@@ -5,6 +5,6 @@
 
 - Feel free to checkout my [website](http://rbtb.io/)! 
 - 🏢 Aspiring Software Engineer located in Worcester, MA.
-- 🧰 I build with: `Python` `TypeScript & JavaScript` `HTML & CSS` `C/C++` `C#` `Swift`
+- 🧰 I build with: `Python` `Java` `C/C++` `TypeScript & JavaScript` `HTML & CSS` `C#` `Swift`
 - ⚡ I enjoy streaming, news/debate, and playing any sports involving a ball.
 - 📫 Reach out to me: rboutayeb@wpi.edu
