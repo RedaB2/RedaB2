@@ -4,7 +4,7 @@
 
 
 - Feel free to checkout my [website](http://rbtb.io/)! 
-- 🏢 Aspiring Software Engineer located in Worcester, MA.
+- 🏢 Aspiring Software Engineer located in The Woodlands, TX.
 - 🧰 I build with: `Python` `Java` `C/C++` `TypeScript & JavaScript` `HTML & CSS` `C#` `Swift`
 - ⚡ I enjoy streaming, news/debate, and playing any sports involving a ball.
-- 📫 Reach out to me: rboutayeb@wpi.edu
+- 📫 Reach out to me: boutayeb.reda@icloud.com
