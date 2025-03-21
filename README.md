@@ -6,7 +6,7 @@
 [<img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" />](https://www.twitch.tv/wayzonlivee)
 
 
-- [Reda's world](http://rbtb.io/)! 
+- [Reda's world](http://rbtb.io/)
 - 🏢 Software Engineer located in The Woodlands, TX.
 - ⚡ Coding, sports and video games is all I need. (family is important too ofc)
 - 📫 Reach out to me: boutayeb.reda@icloud.com
