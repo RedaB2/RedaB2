@@ -7,6 +7,6 @@
 
 
 - [Reda's world](http://rbtb.io/)
-- 🏢 Software Engineer located in The Woodlands, TX.
+- 🏢 Software Engineer
 - ⚡ Coding, sports and video games is all I need. (family is important too ofc)
 - 📫 Reach out to me: boutayeb.reda@icloud.com
