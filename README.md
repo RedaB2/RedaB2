@@ -7,5 +7,5 @@
 
 - [Reda's world](http://rbtb.io/)
 - 🏢 Software Engineer
-- ⚡ Coding, sports and video games is all I need. (i kinda need my family too)
+- "Small circle, private life, peaceful mind"
 - 📫 Reach out to me: boutayeb.reda@icloud.com
